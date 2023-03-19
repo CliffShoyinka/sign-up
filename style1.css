@@ -193,11 +193,30 @@ background: #95007D;
 }
 
 
-.header a {
+.uye a {
     position: absolute;
 width: 100px;
 height: 24px;
-left: 9px;
+left: 10px;
+top: 16px;
+
+font-family: 'Berlin Sans FB';
+font-style: normal;
+font-weight: 400;
+font-size: 24px;
+line-height: 26px;
+display: flex;
+align-items: center;
+text-align: center;
+
+color: #FFFFFF;
+}
+
+.uyea a {
+    position: absolute;
+width: 100px;
+height: 24px;
+left: 90px;
 top: 16px;
 
 font-family: 'Berlin Sans FB';
