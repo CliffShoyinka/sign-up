@@ -1,0 +1,213 @@
+body {
+    position: absolute;
+width: 1440px;
+height: 211px;
+left: 0px;
+top: 0px;
+
+background: url(header.png);
+
+    margin: 0;
+    padding: 0;
+    background: wheat;
+}
+
+.homepage {
+    box-sizing: border-box;
+
+position: absolute;
+width: 240px;
+height: 50px;
+left: 0px;
+top: 210px;
+color: white;
+
+background: #95007D;
+
+}
+
+.homepage:hover {
+    box-sizing: border-box;
+
+    position: absolute;
+    width: 240px;
+    height: 50px;
+    left: 0px;
+    top: 212px;
+    color: rgb(255, 255, 255);
+    
+    background: #ff21da;
+
+    transition: 0.3s;
+    display: block;
+}
+
+.football {
+    box-sizing: border-box;
+
+    position: absolute;
+    width: 240px;
+    height: 50px;
+    left: 240px;
+    top: 210px;
+    color: white;
+    
+    background: #95007D;
+
+}
+
+.football:hover {
+    position: absolute;
+    width: 240px;
+    height: 50px;
+    left: 240px;
+    top: 212px;
+    color: white;
+    
+    background: #ff21da;
+  
+    transition: 0.3s;
+    display: block;
+}
+
+.nfl {
+    box-sizing: border-box;
+
+    position: absolute;
+    width: 240px;
+    height: 50px;
+    left: 480px;
+    top: 210px;
+    color: white;
+    
+    background: #95007D;
+ 
+}
+
+.nfl:hover {
+    box-sizing: border-box;
+
+    position: absolute;
+    width: 240px;
+    height: 50px;
+    left: 480px;
+    top: 212px;
+    color: white;
+    
+    background: #ff21da;
+ 
+    transition: 0.3s;
+    display: block;
+}
+
+.ncaa {
+    box-sizing: border-box;
+
+    position: absolute;
+    width: 240px;
+    height: 50px;
+    left: 720px;
+    top: 210px;
+    color: white;
+    
+    background: #95007D;
+
+}
+
+.ncaa:hover {
+    box-sizing: border-box;
+
+    position: absolute;
+    width: 240px;
+    height: 50px;
+    left: 720px;
+    top: 212px;
+    color: white;
+    
+    background: #ff21da;
+
+    transition: 0.3s;
+    display: block;
+}
+
+.hakkimizda {
+    box-sizing: border-box;
+
+    position: absolute;
+    width: 240px;
+    height: 50px;
+    left: 960px;
+    top: 210px;
+    color: white;
+    
+    background: #95007D;
+
+}
+
+.hakkimizda:hover {
+    box-sizing: border-box;
+
+    position: absolute;
+    width: 240px;
+    height: 50px;
+    left: 960px;
+    top: 212px;
+    color: white;
+    
+    background: #ff21da;
+ 
+    transition: 0.3s;
+    display: block;
+}
+
+
+.iletisim {
+    box-sizing: border-box;
+
+    position: absolute;
+    width: 240px;
+    height: 50px;
+    left: 1200px;
+    top: 210px;
+    color: white;
+    
+    background: #95007D;
+  
+}
+
+.iletisim:hover {
+    box-sizing: border-box;
+
+    position: absolute;
+    width: 240px;
+    height: 50px;
+    left: 1200px;
+    top: 212px;
+    color: white;
+    
+    background: #ff21da;
+
+    transition: 0.3s;
+    display: block;
+
+}
+
+
+.header a {
+    position: absolute;
+width: 100px;
+height: 24px;
+left: 9px;
+top: 16px;
+
+font-family: 'Berlin Sans FB';
+font-style: normal;
+font-weight: 400;
+font-size: 24px;
+line-height: 26px;
+display: flex;
+align-items: center;
+text-align: center;
+
+color: #FFFFFF;
+}
